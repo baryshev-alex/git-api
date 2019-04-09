@@ -1,6 +1,4 @@
 import React, { Component } from 'react';
-// import logo from './logo.svg';
-// import './App.css';
 import FormSearch from './components/formSearch';
 import UserInfo from './components/userInfo';
 

@@ -1,29 +1,5 @@
 import React from 'react';
 
-// class UserInfo extends Component {
-//     render() {
-//         return(
-//             <div className="profile">
-//                 { this.props.avatar_url &&
-//                     <div>
-//                         <div className="profile_info">
-//                             <img src={this.props.avatar_url} alt="avatar"/>
-//                         </div>
-//                         <div className="profile_state">
-//                             <ul>
-//                                 <li>1</li>
-//                                 <li>2</li>
-//                                 <li>3</li>
-//                             </ul>
-//                         </div>
-//                     </div>
-//                 }
-//                 <p>{this.props.error}</p>
-//             </div>
-//         )
-//     }
-// }
-
 const UserInfo = (props) => (
     <div>
         { props.avatar_url &&

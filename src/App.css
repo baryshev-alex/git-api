@@ -35,20 +35,11 @@ body {
 .block-popup {
     max-width: 600px;
     border-radius: .50rem;
-    /* border: 5px solid; */
 }
 .block-popup {
     background-color: #d8d0e8;
     box-shadow: 0px 0px 70px 10px rgba(96,125,113,1);
 }
-/* .profile-avatar a {
-    color: #000000;
-    border-radius: 50%!important;
-    box-shadow: 0px 0px 20px 2px;
-    display: block;
-    width: 60%;
-    margin: 0 auto;
-} */
 .profile_state{
     background-color: #ffffff;
     display: flex;
